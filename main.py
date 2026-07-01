@@ -1029,4 +1029,4 @@ class VKCleanBot:
 
 if __name__ == "__main__":
     bot = VKCleanBot()
-    bot.run()ыыыыыыыыы
+    bot.run()
